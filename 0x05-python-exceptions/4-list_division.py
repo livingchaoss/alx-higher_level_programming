@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-from __future__ import division
-
-
 def list_divison(my_list_1, my_list_2, list_length):
     div = []
     temp_result = 0
