@@ -1,9 +1,4 @@
 #!/usr/bin/python3
-from re import I
-
-from colorama import reinit
-
-
 def magic_calculation(a, b):
     result = 0
     for i in range(1, 3):
