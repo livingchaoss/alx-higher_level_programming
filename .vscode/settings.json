@@ -7,11 +7,11 @@
             "previewLimit": 50,
             "server": "localhost",
             "port": 3306,
+            "askForPassword": true,
             "driver": "MySQL",
-            "name": "MySQL",
-            "database": "0-list_databases.sql",
-            "username": "Jerry",
-            "password": ""
+            "name": "Demonic",
+            "username": "root",
+            "database": "Jerry"
         }
     ]
 }
