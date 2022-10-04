@@ -13,5 +13,6 @@
             "username": "root",
             "database": "Jerry"
         }
-    ]
+    ],
+    "editor.fontFamily": "Hack , 'Courier New', monospace"
 }
